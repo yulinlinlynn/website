@@ -11,14 +11,18 @@ Git的常用姿势整理 https://mp.weixin.qq.com/s/neQz5JWfPEBDQUgl0huTjA
 5、数据结构和算法
 labuladong 的算法笔记 https://labuladong.github.io/algo/home/
 labuladong https://www.zhihu.com/people/labuladong
-6、
+6、工具与环境
+VS Code
 cmake 与make;
 git，gitlab, gitee, github; fork, gitBash;
 gdb, g++, gcc;
-linux, 
+linux常用命令， vim使用命令
+![image](https://github.com/yulinlinlynn/website/assets/94822885/459217fd-24ca-40a0-a541-67f8d41f5286)
+
+7、git， gitBash 与gitLab 笔记
 ******** 拉代码********
 git bash here //找到目标文件夹，删除.git 文件夹，右击选择
-git clone https://adasgitlab.autel.com/acur/acur101_ps_linux.git // 拷贝一份远程仓库，即下载一个项目。（复制粘贴gitlab地址）
+git clone https://adasgitlab.***.com/acur/acur101_ps_linux.git // 拷贝一份远程仓库，即下载一个项目。（复制粘贴gitlab地址）
 ls //查看当前文件夹内容
 cd acur101_ps_linux/    //进入master
 git checkout user/alg_microDopplerDetect //进入分支 switch to a new branch
@@ -50,7 +54,7 @@ git remote  //远程仓库操作
 
 git blame  fileName  //以列表形式查看指定文件的历史修改记录
 
-单元测试 https://mp.weixin.qq.com/s/VGpcSbgvUssYcYsc5Q7d-A
+8、单元测试 https://mp.weixin.qq.com/s/VGpcSbgvUssYcYsc5Q7d-A
 
-Kaggle https://www.kaggle.com/code/flaviobossolan/stratified-sampling-python
-![image](https://github.com/yulinlinlynn/website/assets/94822885/459217fd-24ca-40a0-a541-67f8d41f5286)
+9、Kaggle https://www.kaggle.com/code/flaviobossolan/stratified-sampling-python
+
