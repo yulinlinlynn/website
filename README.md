@@ -1,5 +1,7 @@
 # website 七分工作，三分学习。
-1、Linux C编程一站式学习 https://akaedu.github.io/book/
+1、
+Linux C编程一站式学习 https://akaedu.github.io/book/
+C语言中文网 https://c.biancheng.net/
 2、The Scientist and Engineer's Guide to Digital Signal Processing http://www.dspguide.com/pdfbook.htm
 3、C Tutorial https://www.tutorialspoint.com/cprogramming/index.htm
 分享几款C代码review辅助工具 https://mp.weixin.qq.com/s/-7IAKYxUGUsXlsi-e8GZBw
